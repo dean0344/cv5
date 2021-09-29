@@ -1,0 +1,32 @@
+/**************************TAG SELECTOR***************************/
+h1{
+  background-color: red;
+  font-size: 50px
+}
+table{
+  border-collapse: collapse;
+}
+
+table th{
+  text-align: left;
+  background: #F0A500;
+  color: #FAEEE0;
+  padding: 4px 30px 4px
+}
+table td{
+  padding: 4px 8px
+  border: 1px solide #082032;
+  background-color: #;
+}
+/*
+img{
+  background-color: #A2416B;
+}
+/*
+/**************************CLASS SELECTOR***************************/
+.monkey1{
+  background-color: red;
+}
+.bingo{
+  background-color: green;
+}
